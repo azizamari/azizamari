@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=azizamari)
 <h1 align="center">Hi 👋, I'm Aziz Amari</h1>
 <h3 align="center">A Software Devloper who is passionate about Backend Development, Rest Api's and AR/VR</h3>
 
