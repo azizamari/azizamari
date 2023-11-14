@@ -1,6 +1,6 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=azizamari&&style=flat-square) 
   <br/>  
-### <div align="center">I'm Aziz Amari, a Machine Learning Software Developer 👨‍💻 1-st year Student @ INSAT 🚀</div>  
+### <div align="center">I'm Aziz Amari, a Machine Learning Software Developer 👨‍💻 2-nd year Student @ INSAT 🚀</div>  
   
 
 <br/>  
